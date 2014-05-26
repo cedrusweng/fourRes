@@ -1,0 +1,40 @@
+.m_main{
+	width: 1000px;
+	margin: 0 auto;
+}
+.m_pic_item{
+	_display: inline;
+	float: left;
+	width: 195px;
+	height: 190px;
+	margin: 15px 0 0 15px;
+} 
+.m_pic_view .m_pic_big{
+	width: 506px;
+	height: 396px;
+}
+.m_pic_item img{
+	width: 100%;
+	height: 100%;
+}
+
+.m_pic_dot{
+	display: none;
+}
+
+.m_list_item{
+	_display: inline;
+	float: left;
+	width: 195px;
+	height: 190px;
+	margin: 15px 0 0 15px;
+}
+
+.m_list .m_list_big{
+	width: 506px;
+	height: 396px;
+}
+.m_list_item img{
+	width: 100%;
+	height: 100%;
+}

@@ -1,0 +1,53 @@
+@media screen and (min-width: 200px) and (max-width: 767px){
+	body{
+		background: #ff0;		
+	}	
+	.m_main{
+		width:100%;
+	}
+	.m_pic_view .m_pic_big{
+		float: none;
+		width: 20%;
+		margin: 0;
+	}
+	.m_pic_item{
+		width: 20%;
+		margin: 0;
+	}
+	.m_pic_view{
+		height: 396px;
+		overflow: hidden;
+ 	}
+	.m_pic_timelite{
+		width: 500%;
+	}
+	.m_pic_dot{
+		height: 20px;
+	}
+	.m_pic_dot{
+		display: block;
+		text-align: center;
+	}
+	.m_pic_dot i{
+		display: inline-block;
+		width: 10px;
+		height: 10px;
+		margin: 0 5px;
+		background: #960;
+		border-radius: 50%;
+	}
+	.m_pic_dot i.active{
+		background: #f00;
+	}
+ 
+	.m_list .m_list_big{
+		width: 100%;
+		height: 283px;
+	}
+	
+	.m_list_item{
+		width: 48%;
+		margin-left: 2%;
+	}
+}
+

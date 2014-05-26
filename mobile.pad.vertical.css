@@ -1,0 +1,26 @@
+/* padº·∆¡ */
+@media screen and (min-width: 768px) and (max-width:999px){
+	body{
+		background: #ff0;		
+	}	
+	.m_main{
+		width:768px;
+	}
+	.m_pic_item{	
+		width: 162px;
+		height: 134px;		
+	} 
+	.m_pic_view .m_pic_big{
+		width: 377px;
+		height: 283px;
+	}
+	
+	.m_list_item{	
+		width: 162px;
+		height: 134px;		
+	} 
+	.m_list .m_list_big{
+		width: 377px;
+		height: 283px;
+	}
+}
